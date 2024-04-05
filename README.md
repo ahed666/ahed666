@@ -1,8 +1,8 @@
-# Hi there, I'm [Ahed Naser Eddin]! 👋
+# Hi there, I'm Ahed Naser Eddin! 👋
 
 ## About Me
 
-I'm a passionate Laravel developer with [X] years of experience. I love building web applications and exploring new technologies.
+I'm a passionate Laravel developer with 2 years of experience. I love building web applications and exploring new technologies.
 
 - 🚀 Currently working on: [FormsHub Web App]
 - 💬 Ask me about: Laravel, PHP, MySQL, React.js, Tailwind
