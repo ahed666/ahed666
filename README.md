@@ -11,7 +11,7 @@ I'm a passionate Laravel developer with 2 years of experience. I love building w
 ## My Skills
 
 - **Languages:** PHP, JavaScript,CSS,HTML
-- **Frameworks:** Laravel, React.js
+- **Frameworks:** Laravel,Vue.js React.js
 - **Databases:** MySQ
 - **Tools:** Git, Composer, npm
 
